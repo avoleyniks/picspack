@@ -1,12 +1,5 @@
-/* 
-    Document   : picspack
-    Created on : 16.06.2013, 1:39:13
-    Author     : Анатолий
-    Description:
-        Purpose of the stylesheet follows.
-*/
-
-root { 
-    display: block;
+body {
+	background: url(../img/main-bg.png) repeat 0 0 #363636;
+	font: 14px/21px Arial, Helvetica, sans-serif;
+	color: #6a6a6a;
 }
-
